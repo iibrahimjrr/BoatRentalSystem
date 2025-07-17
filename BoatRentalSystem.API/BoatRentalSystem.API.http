@@ -1,0 +1,6 @@
+@BoatRentalSystem.API_HostAddress = http://localhost:5206
+
+GET {{BoatRentalSystem.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
